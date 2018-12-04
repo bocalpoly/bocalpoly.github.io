@@ -1,3 +1,2 @@
-# bocalpoly.github.io
-Ag. Mechatronics Lab
-test
+# Ag. Mechatronics Lab GitHub Website
+Under construction...
